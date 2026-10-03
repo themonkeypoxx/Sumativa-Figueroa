@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class camera : MonoBehaviour
+public class camaraMovimiento : MonoBehaviour
 {
     public GameObject loquetengoqueseguircfff; // esto se pondra en el inspector como el jugador
     private Vector3 distancia;
